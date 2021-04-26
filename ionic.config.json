@@ -1,0 +1,8 @@
+{
+  "name": "Techmik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "38506de2"
+}
